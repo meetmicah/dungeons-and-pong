@@ -9,7 +9,7 @@ Your opponents play the next 3 rounds with their paddle in their other hand. Opp
 >
 >Your opponents play the next 3 rounds with their paddle in the other >hand. Opponents lose 3 points if they refuse.
 
-___
+***
 
 
 ## Halfpintus
@@ -21,7 +21,7 @@ Your opponents shrink to the size of hobbitses and play the next 3 rounds on the
 >
 >Your opponents shrink to the size of hobbitses and play the next 3 >rounds on their knees. Opponents lose 3 points if they refuse.
 
-___
+***
 
 
 ## Frost Lightning
@@ -33,7 +33,7 @@ Your die is immune to the next strike, friendly or foe.
 >
 >Your die is immune to the next strike, friendly or foe.
 
-___
+***
 
 
 ## Time Warp
@@ -44,7 +44,7 @@ After a play that has lost you the game, cast Time Warp to restart the previous 
 >__Time Warp__
 >
 >After a play that has lost you the game, cast Time Warp to restart the previous round.
-___
+***
 
 ## Entangling Roots
 ### Offensive Spell
@@ -55,7 +55,7 @@ Your opponents can take one step, but then cannot move their feet for the next 3
 >
 >Your opponents can take one step, but then cannot move their feet for the next 3 rounds. Opponents lose 3 points if they refuse.
 
-___
+***
 
 
 ## Chaos Energy
@@ -66,7 +66,7 @@ You may switch sides with your opponents or select a different server on one sid
 >The room fills with __Chaos Energy__
 >
 >If you choose, switch sides with your opponents, or select a different server on one side. All defensive cards stay on the side they were drawn.
-___
+***
 
 ## Wormhole!
 ### Offensive Spell
@@ -77,7 +77,7 @@ The ball teleports to the Foosball table. Quickly, note the current score and co
 >
 >The ball teleports to the Foosball table. Quickly, note the current score and complete this point on the Foosball table!
 
-___
+***
 
 
 ## The Grey Wizard
@@ -89,7 +89,7 @@ Your opponents cannot pass for the next 3 rounds. Opponents lose 3 points if the
 >
 >Your opponents cannot pass for the next 3 rounds. Opponents lose 3 points if they refuse.
 
-___
+***
 
 
 ## Patata Caliente
@@ -101,7 +101,7 @@ For the next 3 rounds, every opponent must touch the ball before it is returned.
 >
 >For the next 3 rounds, every opponent must touch the ball before it is returned. Opponents lose 3 points if they refuse.
 
-___
+***
 
 
 ## Powerball
@@ -113,7 +113,7 @@ Double the points or cards earned from the previous die roll, or negate a die ro
 >
 >Double the points or cards earned from the previous die roll, or negate a die roll. Cannot be used to win.
 
-___
+***
 
 
 ## “Eye Mint Todd Tooth Hat”
@@ -125,7 +125,7 @@ After hitting your own die, speak this incantation to reap the benefit of your r
 >
 >After hitting your own die, speak this incantation to reap the benefit of your roll. Cannot be used to win.
 
-___
+***
 
 
 ## Spell Reflect
@@ -137,7 +137,7 @@ Topple your die. Roll a 3 to reflect your opponent’s offensive spell back at t
 >
 >Topple your die. Roll a 3 to reflect your opponent’s offensive spell back at them. If you are losing, a 1 will also reflect.
 
-___
+***
 
 
 ## Arcane Missiles
@@ -149,7 +149,7 @@ On your next serve, server deploys 3 balls at once. This serve is immune to faul
 >
 >On your next serve, server deploys 3 balls at once. This serve is immune to faults. Opponents need only return one ball.
 
-___
+***
 
 
 ## Expelliarmus!
@@ -161,7 +161,7 @@ Your opponents drop their paddles on the table and use their palms for the next 
 >
 >Your opponents drop their paddles on the table and use their palms for the next 3 rounds. Opponents lose 3 points if they refuse.
 
-___
+***
 
 
 ## Spell Absorb
@@ -173,7 +173,7 @@ Topple your die. Roll a 3 to absorb your opponent’s offensive spell for later 
 >
 >Topple your die. Roll a 3 to absorb your opponent’s offensive spell for later use. If you are losing, a 1 will also absorb.
 
-___
+***
 
 
 ## Curse of Tongues
@@ -185,7 +185,7 @@ Topple your die. Roll a 3 to interrupt and negate your opponent’s defensive sp
 >
 >Topple your die. Roll a 3 to interrupt and negate your opponent’s defensive spell. If you are losing, a 1 will also interrupt.
 
-___
+***
 
 
 ## Spell Steal
@@ -197,7 +197,7 @@ Topple your die. Roll a 3 to steal your opponent’s defensive spell for later u
 >
 >Topple your die. Roll a 3 to steal your opponent’s defensive spell for later use. If you are losing, a 1 will also spell steal.
 
-___
+***
 
 
 ## Life Drain
@@ -209,7 +209,7 @@ Topple your die. Roll a 1 or 3 to drain your opponent’s score to match your ow
 >
 >Topple your die. Roll a 1 or 3 to drain your opponent’s score to match your own.
 
-___
+***
 
 ## You Look Great Today!
 ### Complementary Spell
@@ -220,4 +220,4 @@ Draw 2 cards.
 >
 >Draw 2 cards.
 
-___
+***

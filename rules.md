@@ -2,6 +2,8 @@
 
 Normal ping pong rules apply unless these rules overwrite them.
 
+[Printable Rules](DungeonsPongRules.pdf)
+
 ### Rolling the Die
 * Hitting your opponent's die during regular play is one of the primary goals of the game. The stand will topple and the die will roll to reveal a number. The offending team receives the number of points specified on the die AND draws a card from the deck and casts the spell on the card. ([See The Cards](cards.md)).
 * The dice can be hit at any time during regular play of the game, even on a serve.

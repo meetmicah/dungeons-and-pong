@@ -16,3 +16,17 @@ Game requires at least 2 players, but is more fun with 4-8 players.
 
 # Standard Table Setup
 ![Table Setup](pin-pong-table-setup.jpg)
+
+# Dice Holders and Dice
+You may design your own or use real dice, but here is a suggested design.
+
+![Dice Holders and Dice](DnP-DiceHolders.png)
+
+# 3D Print Files
+.stl files are also included.
+
+* Holders and Dice: DnP-DiceHolders-Dice.stl
+* Dice Only: DnP-DiceOnly.stl
+* Holders Only: DnP-DiceHoldersOnly.stl
+
+![Dice Holders and Dice](DnP-DiceHolders-Dice-STL.png)

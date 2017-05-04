@@ -6,6 +6,10 @@ Rules and regulations for "Dungeons and Pong," a customization of the traditiona
 * [The Cards](#the-cards)
 
 # The Bradalog
+![Imgur](http://i.imgur.com/6bErfSJ.png)
+
+**This is Brad ^^**
+
 The "Bradalog" (a play on the word "catalog") is used as our official playbook and determines the final say in all official rules. House rules may be used, but they must be announced and agreed upon prior to the start the game. Questions that arise during the game must use the official Bradalog to answer, or if an answer cannot be found, the question and possible solution should be noted and submitted for insertion to The Bradalog pending review of your peers. Read the typical Dungeons and Pong rules [here](rules.md)
 
 # The Cards
